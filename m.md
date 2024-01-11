@@ -215,6 +215,7 @@ plt.show()
 ```
 </details>
 
+<strong>被験者10 - 動画2 - 特徴量25(Lips part)</strong>
 
 ![suteru](https://github.com/am-da/mTRF/blob/main/10_2_25.png?raw=true)
 
