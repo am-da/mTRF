@@ -17,3 +17,6 @@ EEGと特徴量の関係をmapに表示(遅延時間を考慮)
 
 *extract time of mv start.py  
 各被験者において、MVが始まる時間を抽出する  
+
+*movie_variance_graph.pdf  
+動画ごとに、特徴量の分散を表示したグラフ  
