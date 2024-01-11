@@ -22,6 +22,10 @@ EEGと特徴量の関係をmapに表示(遅延時間を考慮)
 *movie_variance_graph.pdf  
 動画ごとに、特徴量の分散を表示したグラフ  
 
+*moviegraph  
+各被験者の特徴量の分散を動画ごとにまとめている (特徴量17 * 被験者 22人　が　40ファイル)  
+各被験者でどの特徴量が顕著に表れているのかを確認できる  
+
 *facial features (17)  
 1 Inner Brow Raiser  
 2 Outer Brow Raiser  
