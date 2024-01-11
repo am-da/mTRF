@@ -39,5 +39,4 @@ EEGと特徴量の関係をmapに表示(遅延時間を考慮)
 23 Lip Tightener  
 25 Lips part**  
 26 Jaw Drop  
-
 45 Blink
