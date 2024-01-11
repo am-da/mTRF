@@ -14,3 +14,6 @@ EEGと特徴量の相関を計算
 
 *Create and fit a receptive field model.py  
 EEGと特徴量の関係をmapに表示(遅延時間を考慮)  
+
+*extract time of mv start.py  
+各被験者において、MVが始まる時間を抽出する  
