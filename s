@@ -1,9 +1,6 @@
-```
-puts "hello"
+a
+
+```ruby
+a = 1
 ```
 
-もしくは
-
-~~~
-puts "hello"
-~~~
