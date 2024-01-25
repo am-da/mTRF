@@ -37,7 +37,8 @@
 (インパルス応答を基準に。インバルス応答のタイミングと大きさの組み合わせが複数)
 <img width="606" alt="スクリーンショット 2024-01-25 13 56 22" src="https://github.com/am-da/mTRF/assets/112613519/fae0598f-43c3-41c4-a30c-80e048c40492">
 
-<details><summary>インパルス応答</summary>
+</details>
+
 
 <details><summary>フーリエ変換</summary>
 <img width="564" alt="スクリーンショット 2024-01-25 14 01 48" src="https://github.com/am-da/mTRF/assets/112613519/121c3608-116e-4c4f-8651-816b757dbe4d">
