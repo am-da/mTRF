@@ -1,6 +1,6 @@
 ### mTRFとは
-
-mTRF tool boxはforward modelとbackward modelの両方計算できる　　
+mTRFは多変量のTRF(forward model)
+(mTRF tool boxはforward modelとbackward modelの両方計算できる)　　
 
 ### 正則化
 
@@ -23,6 +23,10 @@ TRF は、進行中の刺激から進行中の神経反応への線形変換を�
 多変量コンテキストで利用可能なすべての神経データを活用することによって、逆刺激応答マッピングを導き出す　　
 バックワード モデルは、神経応答から刺激特徴をデコードすることでデータ生成プロセスを逆にしようとするため、識別モデルまたはデコード モデルと呼ばれることもあります　　
 <img width="375" alt="スクリーンショット 2024-01-25 14 58 52" src="https://github.com/am-da/mTRF/assets/112613519/f1fa9021-9484-433e-9ce8-211ce759e40a">
+
+### global field power (GFP)  
+各瞬間の脳の電場の強さを表す
+
 
 
 <details><summary>線形時不変 (LTI) システム</summary>
