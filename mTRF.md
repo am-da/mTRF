@@ -1,5 +1,5 @@
 ### mTRFとは
-mTRFは多変量のTRF(forward model)
+mTRFは多変量のTRF(forward model)  
 (mTRF tool boxはforward modelとbackward modelの両方計算できる)　　
 
 ### 正則化
