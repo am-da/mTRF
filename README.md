@@ -27,6 +27,8 @@ EEGと特徴量の関係をmapに表示(遅延時間を考慮)
 各被験者でどの特徴量が顕著に表れているのかを確認できる  
 
 *facial features (17)  
+(https://www.cs.cmu.edu/~face/facs.htm)
+
 1 Inner Brow Raiser  
 2 Outer Brow Raiser  
 4 Brow Lowerer  
